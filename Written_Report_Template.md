@@ -1,23 +1,23 @@
-# Kickstarting with Excel
+# Surf's Up with Advanced Data Storage and Retrieval - FRM'S Tec Data Bootcamp Challenge 9
 
-## Overview of Project
+## Overview of statistical analysis
 
-### Purpose
 
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
 
 ## Results
+- June Temperatures
+```
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+```
 
-- What can you conclude about the Outcomes based on Goals?
+- December Temperatures
+```
 
-- What are some limitations of this dataset?
+```
 
-- What are some other possible tables and/or graphs that we could create?
+## Summary
+- 
+
+- Additional Query 1
+
+- Additional Query 2
